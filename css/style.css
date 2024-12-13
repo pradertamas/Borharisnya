@@ -18,6 +18,8 @@ body{
     border-style:ridge;
     border-width: 32px;
     border-color: #ada74e;
+    max-width: 80%;
+    height: auto;
     
     
 }
@@ -48,6 +50,36 @@ h2{
     border-style:ridge;
     border-width: 32px;
     border-color: #ada74e;
+    max-width: 80%;
+    height: auto;
     
+    
+}
+
+.szereplok{
+    width: 80%;
+    border-radius: 50px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #a79e4f;
+    margin: 1em auto;
+}
+
+.szereplok img {
+    width: 600px;
+    margin: 3em;
+    float: left;
+    border-style:ridge;
+    border-width: 32px;
+    border-color: #ada74e;
+    max-width: 80%;
+    height: auto;
+    
+}
+
+h1{
+    background-color: #f0e550;
+    
+    opacity: 80%;
     
 }
