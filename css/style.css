@@ -1,8 +1,53 @@
+body{
+    background-color: #f5ee93;
+}
+
 .mohikan{
-    width: 70%;
-    border-radius: 20px;
-    border-width: 3px;
+    width: 80%;
+    border-radius: 50px;
+    border-width: 5px;
     border-style: solid;
-    border-color: #579394;
+    border-color: #a79e4f;
     margin: 1em auto;
+}
+
+.mohikan img {
+    width: 700px;
+    margin: 3em;
+    float: right;
+    border-style:ridge;
+    border-width: 32px;
+    border-color: #ada74e;
+    
+    
+}
+
+h2{
+    border-bottom: 3px solid rgb(138, 105, 77);
+    margin-left: 40px ;
+    margin-right: 40px ;
+}
+
+.kep_ala_szoveg{
+    text-align: center;
+}
+
+.valos{
+    width: 80%;
+    border-radius: 50px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #a79e4f;
+    margin: 1em auto;
+}
+
+.valos img {
+    width: 400px;
+    margin: 3em;
+    float: left;
+    border-style:ridge;
+    border-width: 32px;
+    border-color: #ada74e;
+    
+    
 }
