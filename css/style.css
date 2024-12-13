@@ -9,6 +9,7 @@ body{
     border-style: solid;
     border-color: #a79e4f;
     margin: 1em auto;
+    
 }
 
 .mohikan img {
@@ -20,7 +21,7 @@ body{
     border-color: #ada74e;
     max-width: 80%;
     height: auto;
-    
+        
     
 }
 
@@ -28,10 +29,8 @@ h2{
     border-bottom: 3px solid rgb(138, 105, 77);
     margin-left: 40px ;
     margin-right: 40px ;
-}
-
-.kep_ala_szoveg{
-    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    color: brown;
 }
 
 .valos{
@@ -41,6 +40,7 @@ h2{
     border-style: solid;
     border-color: #a79e4f;
     margin: 1em auto;
+    
 }
 
 .valos img {
@@ -52,7 +52,7 @@ h2{
     border-color: #ada74e;
     max-width: 80%;
     height: auto;
-    
+        
     
 }
 
@@ -75,11 +75,25 @@ h2{
     max-width: 80%;
     height: auto;
     
+    
 }
 
 h1{
     background-color: #f0e550;
     
     opacity: 80%;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    color: brown;
+
     
+}
+
+.navbar{
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.card-title{
+    color: rgb(71, 52, 52);
+    text-decoration:underline;
 }
